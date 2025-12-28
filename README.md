@@ -1,17 +1,23 @@
-# Traffic-accident-analyser
-Anylising traffic accidents in India using numpy,Pandas in python
+## Smart E-Commerce Sales Analyzer
 
+### Problem Statement
+Analyze e-commerce transaction data to uncover sales trends,
+product performance, and customer behavior.
 
-🎯 Project Goal
+### Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
 
-Analyze road accident data to:
+### Key Insights
+- Seasonal spikes observed in Q4
+- Technology category has highest profit margin
+- Small number of customers generate majority revenue
 
-Identify high-risk time periods
+### Project Structure
+(mention folder layout)
 
-Detect accident hotspots
-
-Understand factors causing accidents
-
-Provide data-backed safety insights
-
-This mimics how government & smart-city teams use data.
+### Future Improvements
+- Add dashboard using Streamlit
+- Introduce sales forecasting
