@@ -10,10 +10,20 @@ product performance, and customer behavior.
 - NumPy
 - Matplotlib
 
-### Key Insights
-- Seasonal spikes observed in Q4
-- Technology category has highest profit margin
-- Small number of customers generate majority revenue
+### Project Goal
+
+Analyze raw e-commerce transaction data to extract business insights such as:
+
+Revenue trends
+
+Product performance
+
+Customer behavior
+
+Seasonality patterns
+
+### Project Insights
+----
 
 
 
