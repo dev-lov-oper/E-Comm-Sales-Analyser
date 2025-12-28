@@ -15,8 +15,7 @@ product performance, and customer behavior.
 - Technology category has highest profit margin
 - Small number of customers generate majority revenue
 
-### Project Structure
-(mention folder layout)
+
 
 ### Future Improvements
 - Add dashboard using Streamlit
